@@ -24,3 +24,4 @@ end
 fido = Dog.new("Fido", "beagle")
 puts fido.breed
 fido.breed = "bulldog"
+puts fido.breed
